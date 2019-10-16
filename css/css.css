@@ -1,0 +1,36 @@
+@charset "UTF-8";
+
+*{
+  margin: 0px;
+  padding: 0px;
+}
+
+li{
+  list-style-type: none;
+  list-style-position: outside;
+}
+
+a{
+  text-decoration: none;
+}
+
+div{
+  box-sizing: border-box;
+}
+
+img{
+  vertical-align: bottom;
+}
+
+table {
+  text-align: center;
+  font-weight: bold;
+}
+
+.w {
+    background-color: white;
+}
+
+.b {
+    background-color: black;
+}
